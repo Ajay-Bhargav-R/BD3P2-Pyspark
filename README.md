@@ -1,10 +1,10 @@
 # BD3P2-Pyspark ETL Project
 Group 10 - Titanic Dataset
-Members: 
-*Ronald Wallace G – 20BDA10  
-*Clevan Cleon Lobo – 20BDA28  
-*Jerome Francis – 20BDA43  
-*Ajay Bhargav R – 20BDA64  
+Members:  
+ - Ronald Wallace G – 20BDA10  
+ - Clevan Cleon Lobo – 20BDA28  
+ - Jerome Francis – 20BDA43  
+ - Ajay Bhargav R – 20BDA64  
 
 
 i.Extract: Load the data
